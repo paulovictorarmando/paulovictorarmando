@@ -1,8 +1,9 @@
 
-## Olá, seja bem vindo ao meu github. Meu nome é Paulo Armando. Sou estudante de engenharia informática e programação. Atualmente procuro oportunidades e desafios para alavancar a minha carreira como Dev. 
+Olá, seja bem vindo ao meu github. Meu nome é Paulo Armando. Sou estudante de engenharia informática e programação. Atualmente procuro oportunidades e desafios para alavancar a minha carreira como Dev. 
 #
 Algumas tecnologias que estou estudando:
-HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVER...
+</br>
+HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVER, Mysql...
 #
 <div align="center">
   <a href="https://github.com/paulovictorarmando">
@@ -22,7 +23,6 @@ HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVE
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
