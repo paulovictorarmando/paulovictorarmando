@@ -1,9 +1,9 @@
 
 ## Olá, seja bem vindo ao meu github. Meu nome é Paulo Armando. Sou estudante de engenharia informática e programação. Atualmente procuro oportunidades e desafios para alavancar a minha carreira como Dev. 
-##
-Algumas tecnologias que estudo:
-HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE) PYTHON, JQUERY...
-
+#
+Algumas tecnologias que estou estudando:
+HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVER...
+#
 <div align="center">
   <a href="https://github.com/paulovictorarmando">
     
