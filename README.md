@@ -1,5 +1,8 @@
 
-## Olá, eu sou o Paulo Victor Armando, estudante de programação e engenharia informática
+## Olá, seja bem vindo ao meu github
+##Meu nome é Paulo Armando.
+##Sou estudante de engenharia informática e programação.
+##Atualmente procuro oportunidades e desafios para alavancar a minha carreira como Dev.
 
 <div align="center">
   <a href="https://github.com/paulovictorarmando">
