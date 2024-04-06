@@ -11,9 +11,8 @@ Olá, seja bem vindo ao meu github. Meu nome é Paulo Armando. Sou estudante de 
   
   ##
  
-<div align="center"> 
-  <a href ="https://www.facebook.com/paulloarmandoo" target="_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> 
-   <a href ="https://www.instagram.com/paullo_armando" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<div align="center">  
+ <a href ="https://www.instagram.com/paullo_armando" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
  <a href="https://www.linkedin.com/in/paulo-victor-armando-1338a0270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
