@@ -1,6 +1,8 @@
-<1h>Welcome to My GitHub Profile!👋 </1h>
+<h1>Welcome to My GitHub Profile!👋 </h1>
 #
-Feel free to explore my repositories and projects. I'm always learning, always coding, and always up for a new challenge. Let's connect and create something awesome together!
+<p>
+Feel free to explore my repositories and projects. I'm always learning, always coding, and always up for a new challenge. Let's connect and create something awesome   together!
+</p>
 #
 
 <div align="center">
