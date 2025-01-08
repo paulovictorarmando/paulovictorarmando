@@ -19,3 +19,10 @@ Feel free to explore my repositories and projects. I'm always learning, always c
  <a href="https://www.linkedin.com/in/paulo-victor-armando-1338a0270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
+#
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,django,cmake,vim,vscode,linux,bootstrap," />
+  </a>
+</p>
+
