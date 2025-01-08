@@ -9,8 +9,8 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 #
 
 <div align="center">
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovictorarmando&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&langs_count=8&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paulovictorarmando&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
   ##
