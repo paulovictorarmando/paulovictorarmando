@@ -8,10 +8,8 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 
 #
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulovictorarmando&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&langs_count=16&theme=dark"/>
-</div>
+| [![paulovictorarmando's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovictorarmando&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/paulovictorarmando?tab=repositories) | [![paulovictorarmando's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/paulovictorarmando?tab=repositories) |
+|:-:|:-:|
   
   ##
   ## Connect with me:
