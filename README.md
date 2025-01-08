@@ -10,7 +10,7 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paulovictorarmando&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&langs_count=4&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   ##
