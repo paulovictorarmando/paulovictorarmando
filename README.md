@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Paulo+Armando;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hi%2C+my+name+is+Paulo+Armando;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</a>
 
 <p>
 Feel free to explore my repositories and projects. I'm always learning, always coding, and always up for a new challenge. Let's connect and create something awesome   together!
