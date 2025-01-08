@@ -11,7 +11,6 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 | [![paulovictorarmando's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovictorarmando&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/paulovictorarmando?tab=repositories) | [![paulovictorarmando's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/paulovictorarmando?tab=repositories) |
 |:-:|:-:|
   
-  ##
   ## Connect with me:
  
 <div align="center">  
@@ -19,6 +18,7 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 </div>
 
 #
+## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,py,django,cmake,vim,vscode,linux,bootstrap," />
