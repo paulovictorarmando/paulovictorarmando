@@ -20,7 +20,7 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 ## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,java,idea,spring" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,fastapi" />
   </a>
 </p>
 
