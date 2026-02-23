@@ -1,8 +1,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=435&lines=Hi%2C+my+name+is+Paulo+Armando;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </a>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="paulovictorarmando" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ao.linkedin.com/in/paulovictorarmando?trk=profile-badge">Paulo Armando</a></div>
-
 
 # 💫 About Me:
 Paulo Armando<br>Software engineer<br>
