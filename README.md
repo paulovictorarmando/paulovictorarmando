@@ -3,7 +3,7 @@
 </a>
 
 # 💫 About Me:
-Paulo Armando<br>Software engineer<br>
+Paulo Armando<br>Software engineer
 <p>
 Feel free to explore my repositories and projects. I'm always learning, always coding, and always up for a new challenge. Let's connect and create something awesome   together!
 </p>
@@ -18,5 +18,3 @@ Feel free to explore my repositories and projects. I'm always learning, always c
 ![](https://github-readme-stats.vercel.app/api?username=paulovictorarmando&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=paulovictorarmando&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorarmando&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
